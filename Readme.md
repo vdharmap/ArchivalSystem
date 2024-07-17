@@ -1,0 +1,1 @@
+This is a public repo intended to create an efficient s3 archival system to accelarate benifits of tiered storage. May large S3 buckets cannot take advatage of tiered storage due to slow arhival processs. This system helps to mange it optimally
